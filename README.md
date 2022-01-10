@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![alt text](https://github.com/thesayraj/thesayraj/new/main/i1.jpg)
+ ![alt text](https://github.com/thesayraj/thesayraj/blob/main/i1.jpg)
